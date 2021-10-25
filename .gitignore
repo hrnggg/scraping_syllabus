@@ -1,0 +1,7 @@
+results/
+samples/
+scraping_env/
+syllabuses/
+tmp/
+misc/
+*.zip
